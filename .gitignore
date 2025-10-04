@@ -2,3 +2,6 @@ checkpoints
 data
 new_dataset
 reconstructed_images
+.vscode
+_MACOSX
+bottleneck_embeddings.npy
