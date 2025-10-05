@@ -5,3 +5,4 @@ reconstructed_images
 .vscode
 _MACOSX
 bottleneck_embeddings.npy
+best_autoencoder.pth
