@@ -7,3 +7,6 @@ _MACOSX
 bottleneck_embeddings.npy
 best_autoencoder.pth
 swinir_model.py
+samples
+checkpoints_swin_l1
+best_autoencoder.pth
