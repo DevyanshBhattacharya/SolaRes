@@ -1,6 +1,4 @@
-# PyTorch compiled for CUDA 12.9. If you prefer CPU-only, replace the torch/torchvision lines with 'torch==2.7.1+cpu' and 'torchvision==0.20.1+cpu' or install via conda.
-# Use pip with the PyTorch index to fetch the +cu129 wheels:
-# pip install --index-url https://download.pytorch.org/whl/cu129 torch==2.7.1+cu129 torchvision==0.20.1+cu129 --extra-index-url https://pypi.org/simple
+
 torch==2.7.1
 torchvision==0.22.1
 torchmetrics>=0.11.0
@@ -9,3 +7,4 @@ opencv-python>=4.6.0
 matplotlib>=3.5.0
 tqdm>=4.64.0
 scipy>=1.9.0
+pytorch_msssim
